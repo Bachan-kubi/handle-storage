@@ -1,0 +1,13 @@
+.cosmetics{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 20px;
+}
+.cosmetic{
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid coral;
+}
